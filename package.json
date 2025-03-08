@@ -1,0 +1,20 @@
+{
+  "name": "holamundo",
+  "version": "1.0.0",
+  "description": "este es el primer mi primer proyecto con node en openbootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "holamundo",
+    "firstproyect"
+  ],
+  "author": "NicolasM",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
